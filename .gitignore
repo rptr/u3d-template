@@ -1,0 +1,10 @@
+*
+!.gitignore
+!src
+!src/**
+!Data
+!CoreData
+!Data/**
+!CoreData/**
+!SConstruct
+!README.md

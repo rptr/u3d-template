@@ -1,0 +1,26 @@
+<cubemap>
+    <!-- <face name="gfx/sky_side.png" /> -->
+    <!-- <face name="gfx/sky_side.png" /> -->
+    
+    <face name="gfx/sky_dust.png" />
+    <face name="gfx/sky_dust.png" />
+
+    <face name="gfx/sky_dust.png" />
+    <face name="gfx/sky_dust.png" />
+
+    <face name="gfx/sky_dust.png" />
+    <face name="gfx/sky_dust.png" />
+    
+    <!-- <face name="gfx/sky_side.png" /> -->
+    <!-- <face name="gfx/sky_side.png" /> -->
+    
+<!--
+    <face name="BrightDay1_PosX.dds" />
+    <face name="BrightDay1_NegX.dds" />
+    <face name="BrightDay1_PosY.dds" />
+    <face name="BrightDay1_NegY.dds" />
+    <face name="BrightDay1_PosZ.dds" />
+    <face name="BrightDay1_NegZ.dds" />
+-->
+    <quality low="0" />
+</cubemap>

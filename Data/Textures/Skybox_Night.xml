@@ -1,0 +1,30 @@
+<cubemap>
+    <face name="gfx/skybox_night/1.png" />
+    <face name="gfx/skybox_night/2.png" />
+    <face name="gfx/skybox_night/5.png" />
+    <face name="gfx/skybox_night/6.png" />
+    <face name="gfx/skybox_night/3.png" />
+    <face name="gfx/skybox_night/4.png" />
+
+<!--
+    <face name="gfx/sky_side_night_1.png" />
+    <face name="gfx/sky_side_night_2.png" />
+    
+    <face name="gfx/sky_top_night.png" />
+    <face name="gfx/sky_top_night.png" />
+    
+    <face name="gfx/sky_front_night_1.png" />
+    <face name="gfx/sky_front_night_2.png" />
+                   
+                   -->     
+<!--
+
+    <face name="BrightDay1_PosX.dds" />
+    <face name="BrightDay1_NegX.dds" />
+    <face name="BrightDay1_PosY.dds" />
+    <face name="BrightDay1_NegY.dds" />
+    <face name="BrightDay1_PosZ.dds" />
+    <face name="BrightDay1_NegZ.dds" />
+-->
+    <quality low="0" />
+</cubemap>
