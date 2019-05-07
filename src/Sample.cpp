@@ -78,7 +78,7 @@ void Sample::Start()
     auto *cam = cameraNode_->CreateComponent<Camera>();
     cam->SetFarClip(500);
     GetSubsystem<Renderer>()->SetViewport(0, new Viewport(context_, scene_, cam));
-    cameraNode_->SetPosition(Vector3(0, 50, 50));
+    cameraNode_->SetPosition(Vector3(0, 5, 5));
     cameraNode_->LookAt(Vector3(0, 0, 0));
 
     Quaternion rot = cameraNode_->GetRotation();

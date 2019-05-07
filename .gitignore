@@ -1,10 +1,8 @@
 *
 !.gitignore
 !src
-!src/**
-!Data
-!CoreData
-!Data/**
-!CoreData/**
+!src/*.cpp
+!src/*.h
+!.dir
 !SConstruct
 !README.md
